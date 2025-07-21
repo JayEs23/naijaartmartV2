@@ -7091,7 +7091,7 @@
    font-weight: 400;
    font-display: block;
    src: url("../../public/assets/font/fa-brands-400.eot");
-   src: url("../../public/assets/font/fa-brands-400d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-brands-400.html") format("woff2"), url("../../public/assets/font/fa-brands-400.woff") format("woff"), url("../../public/assets/font/fa-brands-400.ttf") format("truetype"), url("../../public/assets/font/fa-brands-400.svg#fontawesome") format("svg"); }
+   src: url("../../public/assets/font/fa-brands-400d41d.eot?#iefix") format("embedded-opentype"), url("/../../public/assets/font/fa-brands-400.html") format("woff2"), url("../../public/assets/font/fa-brands-400.woff") format("woff"), url("../../public/assets/font/fa-brands-400.ttf") format("truetype"), url("../../public/assets/font/fa-brands-400.svg#fontawesome") format("svg"); }
  
  .fab {
    font-family: 'Font Awesome 5 Brands';
@@ -7102,7 +7102,7 @@
    font-weight: 900;
    font-display: block;
    src: url("../../public/assets/font/fa-duotone-900.eot");
-   src: url("../../public/assets/font/fa-duotone-900d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-duotone-900.html") format("woff2"), url("../../public/assets/font/fa-duotone-900.woff") format("woff"), url("../../public/assets/font/fa-duotone-900.ttf") format("truetype"), url("../../public/assets/font/fa-duotone-900.svg#fontawesome") format("svg"); }
+   src: url("../../public/assets/font/fa-duotone-900d41d.eot?#iefix") format("embedded-opentype"), url("/../../public/assets/font/fa-duotone-900.html") format("woff2"), url("../../public/assets/font/fa-duotone-900.woff") format("woff"), url("../../public/assets/font/fa-duotone-900.ttf") format("truetype"), url("../../public/assets/font/fa-duotone-900.svg#fontawesome") format("svg"); }
  
  .fad {
    position: relative;
@@ -12700,8 +12700,8 @@
    font-style: normal;
    font-weight: 300;
    font-display: block;
-   src: url("/font/fa-light-300.html");
-   src: url("../../public/assets/font/fa-light-300d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-light-300.html") format("woff2"), url("../../public/assets/font/fa-light-300.woff") format("woff"), url("../../public/assets/font/fa-light-300.ttf") format("truetype"), url("../../public/assets/font/fa-light-300.svg#fontawesome") format("svg"); }
+   /* src: url("/font/fa-light-300.html"); */
+   /* src: url("../../public/assets/font/fa-light-300d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-light-300.html") format("woff2"), url("../../public/assets/font/fa-light-300.woff") format("woff"), url("../../public/assets/font/fa-light-300.ttf") format("truetype"), url("../../public/assets/font/fa-light-300.svg#fontawesome") format("svg"); } */
  
  .fal {
    font-family: 'Font Awesome 5 Pro';
@@ -12711,8 +12711,8 @@
    font-style: normal;
    font-weight: 400;
    font-display: block;
-   src: url("../../public/assets/font/fa-regular-400.eot");
-   src: url("../../public/assets/font/fa-regular-400d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-regular-400.html") format("woff2"), url("../../public/assets/font/fa-regular-400.woff") format("woff"), url("../../public/assets/font/fa-regular-400.ttf") format("truetype"), url("../../public/assets/font/fa-regular-400.svg#fontawesome") format("svg"); }
+   /* src: url("../../public/assets/font/fa-regular-400.eot"); */
+   /* src: url("../../public/assets/font/fa-regular-400d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-regular-400.html") format("woff2"), url("../../public/assets/font/fa-regular-400.woff") format("woff"), url("../../public/assets/font/fa-regular-400.ttf") format("truetype"), url("../../public/assets/font/fa-regular-400.svg#fontawesome") format("svg"); } */
  
  .far {
    font-family: 'Font Awesome 5 Pro';
@@ -12722,11 +12722,12 @@
    font-style: normal;
    font-weight: 900;
    font-display: block;
-   src: url("../../public/assets/font/fa-solid-900.eot");
-   src: url("../../public/assets/font/fa-solid-900d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-solid-900.html") format("woff2"), url("../../public/assets/font/fa-solid-900.woff") format("woff"), url("../../public/assets/font/fa-solid-900.ttf") format("truetype"), url("../../public/assets/font/fa-solid-900.svg#fontawesome") format("svg"); }
- 
+   /* src: url("../../public/assets/font/fa-solid-900.eot"); */
+   /* src: url("../../public/assets/font/fa-solid-900d41d.eot?#iefix") format("embedded-opentype"), url("../../public/assets/font/fa-solid-900.html") format("woff2"), url("../../public/assets/font/fa-solid-900.woff") format("woff"), url("../../public/assets/font/fa-solid-900.ttf") format("truetype"), url("../../public/assets/font/fa-solid-900.svg#fontawesome") format("svg"); } */
+ }
  .fa,
  .fas {
    font-family: 'Font Awesome 5 Pro';
    font-weight: 900; }
- 
+ }
+}
